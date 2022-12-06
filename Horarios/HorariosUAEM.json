@@ -1,0 +1,619 @@
+[
+	{
+		"prof": {
+			"id": 1,
+			"name": "Elizabeth Pulido Alba"
+		}
+	},
+	{
+		"prof": {
+			"id": 2,
+			"name": "Jonathan Rojas Simon"
+		}
+	},
+	{
+		"prof": {
+			"id": 3,
+			"name": "Maria Alcantara Fernandez"
+		}
+	},
+	{
+		"prof": {
+			"id": 4,
+			"name": "Mauro Sanchez Sanchez"
+		}
+	},
+	{
+		"prof": {
+			"id": 5,
+			"name": "Rafael Cruz Sanchez"
+		}
+	},
+	{
+		"prof": {
+			"id": 6,
+			"name": "Rene Amulfo Garcia Hernandez"
+		}
+	},
+	{
+		"prof": {
+			"id": 7,
+			"name": "Yanet Hernandez Casimiro"
+		}
+	},
+	{
+		"prof": {
+			"id": 8,
+			"name": "Yulia Nikolaevna Ledeneva"
+		}
+	},
+		{
+		"prof": {
+			"id": 9,
+			"name": "Benjamin Lopez Gonzales"
+		}
+	},
+	{
+		"prof": {
+			"id": 10,
+			"name": "Griselda Areli Matias Mendoza"
+		}
+	},
+	{
+		"prof": {
+			"id": 11,
+			"name": "Julieta Garcilzo Reyes"
+		}
+	},
+	{
+		"prof": {
+			"id": 12,
+			"name": "Luis Felipe Ramirez Jeronimo"
+		}
+	},
+	{
+		"prof": {
+			"id": 13,
+			"name": "Magdalena Martinez Contreras"
+		}
+	},
+	{
+		"prof": {
+			"id": 14,
+			"name": "Mara Patricia Hinojosa Garduño"
+		}
+	},
+	{
+		"prof": {
+			"id": 15,
+			"name": "Maritza Flores Dominguez"
+		}
+	},
+	{
+		"prof": {
+			"id": 16,
+			"name": "Gerardo Arturo Avila Vilchis"
+		}
+	},
+	
+	{
+		"prof": {
+			"id": 17,
+			"name": "Gustavo Gomez Vergara"
+		}
+	},
+	{
+		"prof": {
+			"id": 18,
+			"name": "Ismael Gonzalez Del Campo"
+		}
+	},
+	{
+		"prof": {
+			"id": 19,
+			"name": "Adriana Fonseca Munguia"
+		}
+	},
+	{	
+		"prof": {
+			"id": 20,
+			"name": "Brenda Yazmin Reza Curiel"
+		}
+	},
+	{
+		"prof": {
+			"id": 21,
+			"name": "Jose Arturo Perez Martinez"
+		}
+	},
+	{
+		"prof": {
+			"id": 22,
+			"name": "Jose Luis Tapia Fabela"
+		}
+	},
+	{
+		"prof": {
+			"id": 23,
+			"name": "Selene Itzel Vargas Flores"
+		}
+	},
+	{
+		"prof": {
+			"id": 24,
+			"name": "Selene Palacios Astudillo"
+		}
+	},
+	{
+		"prof": {
+			"id": 25,
+			"name": "Victor Manuel Gonzales Herrera"
+		}
+	},
+	{
+		"prof": {
+			"id": 26,
+			"name": "Ana Lilia Flores Vazquez"
+		}
+	},
+	{
+		"prof": {
+			"id": 27,
+			"name": "Carlos Eduardo Torres Reyes"
+		}
+	},
+	{
+		"prof": {
+			"id": 28,
+			"name": "Carlos Landeros Guzman"
+		}
+	},
+	{
+		"prof": {
+			"id": 29,
+			"name": "David Hernandez Benitez"
+		}
+	},
+	{
+		"prof": {
+			"id": 30,
+			"name": "Elizabeth Ramirez Fuentes"
+		}
+	},
+	{
+		"prof": {
+			"id": 31,
+			"name": "Esmeralda Bernal Romero"
+		}
+	},
+	{
+		"prof": {
+			"id": 32,
+			"name": "Felipe Castillo Rubí"
+		}
+	},
+	{
+		"prof": {
+			"id": 33,
+			"name": "Gilda Gonzales Villaseño"
+		}
+	},
+	{
+		"prof": {
+			"id": 34,
+			"name": "Leonor Hernandez Muñoz"
+		}
+	},
+	{
+		"prof": {
+			"id": 35,
+			"name": "Marcela Camacho Avila"
+		}
+	},
+	{
+		"prof": {
+			"id": 36,
+			"name": "Martin Garcia Avila"
+		}
+	},
+	{
+		"prof": {
+			"id": 37,
+			"name": "Salvador Mastachi Loza"
+		}
+	},
+	{
+		"course": {
+			"id": 1,
+			"name": "SIG"
+		}
+	},
+	{
+		"course": {
+			"id": 2,
+			"name": "Mineria de datos"
+		}
+	},
+	{
+		"course": {
+			"id": 3,
+			"name": "Computo evolutivo"
+		}
+	},
+	{
+		"course": {
+			"id": 4,
+			"name": "Programacion aplicada a movil"
+		}
+	},
+	{
+		"course": {
+			"id": 5,
+			"name": "Software embebido"
+		}
+	},
+	{
+		"course": {
+			"id": 6,
+			"name": "Reconocimiento de patrones"
+		}
+	},
+	{
+		"course": {
+			"id": 7,
+			"name": "Auditoria"
+		}
+	},
+	{
+		"course": {
+			"id": 8,
+			"name": "Inteligencia artificial"
+		}
+	},
+	{
+		"course": {
+			"id": 9,
+			"name": "Etica y  derecho informatico"
+		}
+	},
+	{
+		"course": {
+			"id": 10,
+			"name": "Metricas de software"
+		}
+	},
+	{
+		"course": {
+			"id": 11,
+			"name": "Simulación"
+		}
+	},
+	{
+		"course": {
+			"id": 12,
+			"name": "Sistemas operativos"
+		}
+	},
+	{
+		"course": {
+			"id": 13,
+			"name": "Sistemas distribuidos"
+		}
+	},
+	{
+		"course": {
+			"id": 14,
+			"name": "Administracion de bases de datos"
+		}
+	},
+	{
+		"course": {
+			"id": 15,
+			"name": "Innovación y sustentabilidad"
+		}
+	},
+	{
+		"course": {
+			"id": 16,
+			"name": "Analisis y diseño de software"
+		}
+	},
+	{
+		"course": {
+			"id": 17,
+			"name": "Redes y telecomunicaciones"
+		}
+	},
+	{
+		"course": {
+			"id": 18,
+			"name": "Metodos y modelos de desarrollo"
+		}
+	},
+	{
+		"course": {
+			"id": 19,
+			"name": "Bases de datos"
+		}
+	},
+	{
+		"course": {
+			"id": 20,
+			"name": "Programación paralela"
+		}
+	},
+	{
+		"course": {
+			"id": 21,
+			"name": "Habilidades directivas"
+		}
+	},
+	{
+		"course": {
+			"id": 22,
+			"name": "Logica digital"
+		}
+	},
+	{
+		"course": {
+			"id": 23,
+			"name": "Probabilidad y estadistica"
+		}
+	},
+	{
+		"course": {
+			"id": 24,
+			"name": "Ingenieria de software"
+		}
+	},
+	{
+		"course": {
+			"id": 25,
+			"name": "Teoria de automatas"
+		}
+	},
+	{
+		"course": {
+			"id": 26,
+			"name": "Programación orientada a objetos"
+		}
+	},
+	{
+		"course": {
+			"id": 27,
+			"name": "Quimica"
+		}
+	},
+	{
+		"course": {
+			"id": 28,
+			"name": "Algebra"
+		}
+	},
+	{
+		"course": {
+			"id": 29,
+			"name": "Algoritmica"
+		}
+	},
+	{
+		"course": {
+			"id": 30,
+			"name": "Fisica"
+		}
+	},
+	{
+		"course": {
+			"id": 31,
+			"name": "Matematicas discretas"
+		}
+	},
+	{
+		"course": {
+			"id": 32,
+			"name": "Computación"
+		}
+	},
+	{
+		"room": {
+			"name": "F9",
+			"lab": true,
+			"size": 40
+		}
+	},
+	{
+		"room": {
+			"name": "F10",
+			"lab": true,
+			"size": 40
+		}
+	},
+	{
+		"room": {
+			"name": "33",
+			"lab": false,
+			"size": 40
+		}
+	},
+	{
+		"room": {
+			"name": "34",
+			"lab": false,
+			"size": 40
+		}
+	},
+	{
+		"group": {
+			"id": 1,
+			"name": "S9",
+			"size": 20
+		}
+	},
+	{
+		"group": {
+			"id": 2,
+			"name": "SX",
+			"size": 20
+		}
+	},
+	{
+		"group": {
+			"id": 3,
+			"name": "S7",
+			"size": 20
+		}
+	},
+	{
+		"group": {
+			"id": 4,
+			"name": "S8",
+			"size": 20
+		}
+	},
+	{
+		"group": {
+			"id": 5,
+			"name": "S5",
+			"size": 20
+		}
+	},
+	{
+		"group": {
+			"id": 6,
+			"name": "S6",
+			"size": 20
+		}
+	},
+	{
+		"group": {
+			"id": 7,
+			"name": "S3",
+			"size": 20
+		}
+	},
+	{
+		"group": {
+			"id": 8,
+			"name": "S4",
+			"size": 20
+		}
+	},
+	{
+		"group": {
+			"id": 9,
+			"name": "SE",
+			"size": 20
+		}
+	},
+	{
+		"group": {
+			"id": 10,
+			"name": "S1",
+			"size": 20
+		}
+	},
+	{
+		"group": {
+			"id": 11,
+			"name": "S2",
+			"size": 20
+		}
+	},
+	{
+		"group": {
+			"id": 12,
+			"name": "SA",
+			"size": 20
+		}
+	},
+	{
+		"group": {
+			"id": 13,
+			"name": "SB",
+			"size": 20
+		}
+	},
+	{
+		"group": {
+			"id": 14,
+			"name": "SC",
+			"size": 20
+		}
+	},
+	{
+		"group": {
+			"id": 15,
+			"name": "SD",
+			"size": 20
+		}
+	},
+	{
+		"class": {
+			"profesor": 1,
+			"course": 4,
+			"duration": 6,
+			"groups": [1,2],
+			"lab": true
+		}
+	},
+	{
+		"class": {
+			"profesor": 2,
+			"course": 3,
+			"duration": 3,
+			"groups": 2 ,
+			"lab": true
+		}
+	},
+	{
+		"class": {
+			"profesor": 3,
+			"course": 5,
+			"duration": 3,
+			"group": 2 ,
+			"lab": true
+		}
+	},
+	{
+		"class": {
+			"profesor": 4,
+			"course": 7,
+			"duration": 6,
+			"group": [1,2]
+		}
+	},
+	{
+		"class": {
+			"profesor": 5,
+			"course": 2,
+			"duration": 6,
+			"groups": [1,2]
+		}
+	},
+	{
+		"class": {
+			"profesor": 6,
+			"course": 2,
+			"duration": 3,
+			"groups": 1,
+			"lab": true
+		}
+	},
+	{
+		"class": {
+			"profesor": 7,
+			"course": 1,
+			"duration": 6,
+			"groups": [1,2]
+		}
+	},
+	{
+		"class": {
+			"profesor": 8,
+			"course": 6,
+			"duration": 3,
+			"groups": 1,
+			"lab": true
+		}
+	}
+]
